@@ -1,7 +1,0 @@
-const movieTypes = {
-  FETCH_MOVIE_START: 'FETCH_MOVIE_START',
-  FETCH_MOVIE_FAILURE: 'FETCH_MOVIE_FAILURE',
-  FETCH_MOVIE_SUCCESS: 'FETCH_MOVIE_SUCCESS',
-};
-
-export default movieTypes;
